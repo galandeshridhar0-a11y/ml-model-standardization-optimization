@@ -1,6 +1,4 @@
-# Week 7 Lab — Model Standardization and Optimization
-
-**Course 9 · BITS Pilani × upGrad GenAI Program**
+# Model Standardization and Optimization
 
 ---
 
