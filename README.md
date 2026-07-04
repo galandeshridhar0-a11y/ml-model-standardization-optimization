@@ -142,7 +142,7 @@ Artifacts: lab3_benchmarking/artifacts/
 
 ---
 
-## Learning objectives (Week 7 mapping)
+## Learning objectives
 
 | Learning objective | Covered in |
 |--------------------|-----------|
